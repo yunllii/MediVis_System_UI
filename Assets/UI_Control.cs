@@ -15,6 +15,7 @@ public class UI_Control : MonoBehaviour {
 	void Update () {
 
 
+
 		if (Input.GetKeyDown("space") && Once == false){
 
 

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_curved_ui", "Assembly-CSharp.csproj", "{C16AF753-3600-D45B-1EFB-7B036A3266DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_curved_ui", "Assembly-CSharp-Editor.csproj", "{F38B9B11-DD97-A1F7-6F3D-B3A95D91D637}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{C16AF753-3600-D45B-1EFB-7B036A3266DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C16AF753-3600-D45B-1EFB-7B036A3266DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C16AF753-3600-D45B-1EFB-7B036A3266DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38B9B11-DD97-A1F7-6F3D-B3A95D91D637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38B9B11-DD97-A1F7-6F3D-B3A95D91D637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38B9B11-DD97-A1F7-6F3D-B3A95D91D637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38B9B11-DD97-A1F7-6F3D-B3A95D91D637}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
